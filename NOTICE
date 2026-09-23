@@ -1,0 +1,20 @@
+AI9GM specification, release 0.9.0
+Copyright © 2026 Florante Pascual.
+
+The specification text in this repository is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0). The full license text is in LICENSE.
+
+Naming
+The AI9GM name, the numeronym, the layer names and their epithets are not licensed
+under CC BY 4.0 and are not granted by it. A derivative work must carry a different
+name, must not present itself as AI9GM or as a version of it, and must not state or
+imply endorsement by the editor.
+
+Referring to AI9GM, citing it, mapping to it, or stating conformance to a version of it
+requires no permission and is encouraged.
+
+Attribution
+Attribute the specification in this form, naming the release, the section and the
+decision identifier you rely on:
+
+  AI9GM 0.9.0, Layer 4 §5B, decision L4-CLS-04. Florante Pascual. Licensed CC BY 4.0.

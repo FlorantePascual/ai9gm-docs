@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this specification by its release and the identifier you rely on."
+title: "AI-Centric IT Governance Model (AI9GM), Draft for Review"
+version: 0.9.0
+authors:
+  - given-names: Florante
+    family-names: Pascual
+    orcid: https://orcid.org/0009-0007-7267-9031
+repository-code: https://github.com/FlorantePascual/ai9gm-docs
+url: https://ai9gm.com/
+license: CC-BY-4.0
