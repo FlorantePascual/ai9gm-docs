@@ -2,6 +2,11 @@ cff-version: 1.2.0
 message: "Cite this specification by its release and the identifier you rely on."
 title: "AI-Centric IT Governance Model (AI9GM), Draft for Review"
 version: 0.9.0
+doi: 10.5281/zenodo.22943899
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22943900
+    description: The archived copy of release 0.9.0
 authors:
   - given-names: Florante
     family-names: Pascual

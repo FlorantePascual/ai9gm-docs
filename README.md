@@ -39,6 +39,9 @@ Use GitHub's "Cite this repository", which reads [CITATION.cff](CITATION.cff). [
 gives the attribution form: name the release, the section and the decision identifier together.
 A decision identifier is stable across releases and its text is not.
 
+The concept DOI is [10.5281/zenodo.22943899](https://doi.org/10.5281/zenodo.22943899). Release 0.9.0 is
+[10.5281/zenodo.22943900](https://doi.org/10.5281/zenodo.22943900).
+
 ## Corrections
 
 Raise a correction at [ai9gm.com](https://ai9gm.com/), from the page it concerns. This repository
