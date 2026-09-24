@@ -12,6 +12,7 @@ this repository, and it takes no issues or pull requests.
 
 - [The manifesto](specifications/manifesto.md).
 - [The normative reference](specifications/AI9GM-v0_9.md).
+- [Known limitations](specifications/limitations-register.md).
 - [The model](specifications/the-model/index.md).
 - [Layer 1. Foundation](specifications/the-model/layers/l1-foundation.md).
 - [Layer 2. Structural](specifications/the-model/layers/l2-structural.md).
@@ -29,8 +30,8 @@ this repository, and it takes no issues or pull requests.
 
 ## Limitations
 
-Known limitations, including related party concentration as KL-57, are published on
-[ai9gm.com](https://ai9gm.com/).
+Known limitations, including related party concentration as KL-57, are recorded in
+[specifications/limitations-register.md](specifications/limitations-register.md).
 
 ## Citing
 

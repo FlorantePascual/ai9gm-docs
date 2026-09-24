@@ -1,0 +1,22 @@
+{
+  "title": "AI-Centric IT Governance Model (AI9GM), Draft for Review",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "<p>Draft for Review. Not accredited. No conformity assessment exists.</p>\n<p>AI9GM v0.9, release 0.9.0. The AI-Centric IT Governance Model specification, edited and published by Florante Pascual (ORCID 0009-0007-7267-9031).</p>\n<p>AI9GM is written, published and implemented by the same person. Florante Pascual is the specification's editor. He is its publisher. He is currently its only implementation partner.</p>\n<p>This concentration is a limitation and it is recorded as one. The framework has had no independent review. Findings from implementations conducted by its author are a record of the framework being used, not independent validation of it, and they are published as such.</p>\n<p>Independent stewardship is an intention on the roadmap. It is not a fact.</p>\n<p>The known limitations register records what the framework has not established, including this concentration as KL-57. It is part of this record, at specifications/limitations-register.md.</p>\n<p>Corrections are raised at ai9gm.com, from the page they concern. This archived copy does not depend on that site. The site carries the current text.</p>\n<p>The specification text is licensed CC BY 4.0. The AI9GM name is not licensed with it. See NOTICE.</p>",
+  "creators": [
+    {
+      "name": "Pascual, Florante",
+      "orcid": "0009-0007-7267-9031"
+    }
+  ],
+  "version": "0.9.0",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "AI governance",
+    "IT governance",
+    "decision rights",
+    "accountability"
+  ],
+  "language": "eng"
+}
