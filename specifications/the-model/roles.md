@@ -2,8 +2,6 @@
 
 **Revision 3. Section 3 retired to an index. The six layer specifications hold the authoritative allocations.**
 
-*Supports AI9GM v0.9. Editor: Florante F. Pascual, Jr.*
-
 ---
 
 ## How to use this document

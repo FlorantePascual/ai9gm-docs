@@ -39,8 +39,13 @@ Use GitHub's "Cite this repository", which reads [CITATION.cff](CITATION.cff). [
 gives the attribution form: name the release, the section and the decision identifier together.
 A decision identifier is stable across releases and its text is not.
 
-The concept DOI is [10.5281/zenodo.22943899](https://doi.org/10.5281/zenodo.22943899). Release 0.9.0 is
-[10.5281/zenodo.22943900](https://doi.org/10.5281/zenodo.22943900).
+Concept DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22943899.svg)](https://doi.org/10.5281/zenodo.22943899)
+
+Release 0.9.0:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22943900.svg)](https://doi.org/10.5281/zenodo.22943900)
 
 ## Corrections
 
@@ -50,4 +55,4 @@ does not take corrections.
 ## License
 
 The specification text is licensed under [CC BY 4.0](LICENSE). The AI9GM name is not licensed with
-it. See [NOTICE](NOTICE). Copyright © 2026 Florante Pascual.
+it. See [NOTICE](NOTICE). Copyright © 2025-2026 Florante Pascual.
